@@ -66,9 +66,8 @@ We’re building openly and collaboratively. Developers are welcome to:
 ### 🌍 Connect With Us
 
 <p align="center">
-  <a href="https://coixa.xyz"><img src="https://img.shields.io/badge/🌐_Website-coixa.tech-blue?style=for-the-badge"></a>
-  <a href="https://x.com/CoixaFi"><img src="https://img.shields.io/badge/X_(Twitter)-@coixatech-black?style=for-the-badge&logo=x"></a>
-  <a href="mailto:contact@coixa.tech"><img src="https://img.shields.io/badge/📧_Email-contact@coixa.tech-green?style=for-the-badge"></a>
+  <a href="https://coixa.xyz"><img src="https://img.shields.io/badge/🌐_Website-coixa.xyz-blue?style=for-the-badge"></a>
+  <a href="https://x.com/CoixaFi"><img src="https://img.shields.io/badge/X_(Twitter)-@CoixaFi-black?style=for-the-badge&logo=x"></a>
 </p>
 
 ---
