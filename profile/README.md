@@ -1,10 +1,9 @@
 <!-- Coixa Technologies Ltd | Official GitHub Organization Profile -->
 
 <p align="center">
-  <img src="https://github.com/Coixa-Technologies/.github/assets/banner.png" alt="Coixa Banner" width="100%" />
 </p>
 
-<h1 align="center">🌐 Coixa Technologies Ltd</h1>
+<h1 align="center">🌐 Coixa Technologies</h1>
 
 <p align="center">
   <em>Building the DeFi layer for the Pi Network and beyond.</em>
